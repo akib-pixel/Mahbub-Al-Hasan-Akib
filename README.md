@@ -2,7 +2,7 @@
 ![MasterHead](https://thumbs.dreamstime.com/b/ai-artificial-intelligence-degree-icons-vector-banner-concept-illustration-icon-set-robotics-machine-learning-autonomous-problem-214718866.jpg)
 
 
-<h1 align="center">Hi 👋, I'm Mahbub Al Hasan Akib</h1>
+<h1 align="center">Hi 👋, I'm Mahbub Al Hasan Akib</h1> 
 <h3 align="center">🚀 Aspiring Electrical & Electronics Engineer | 🤖 Robotics & AI Enthusiast | 🔭 Space & Cosmology Explorer | 📚 Lifelong Learner of Programming, Machine Learning,Django| 💡 Innovating for a Better Tomorrow.</h3>
 
 <img align = "right" alt ="coding" width="400" src = "https://user-images.githubusercontent.com/75851313/151668395-5591532b-28da-46a6-9476-7c9694bcb60e.gif">
